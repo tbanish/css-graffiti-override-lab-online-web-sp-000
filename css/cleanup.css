@@ -1,3 +1,5 @@
 /* write your override styles here */
 
-#wall 
+#wall #tag-2 {
+  display: none;
+}
